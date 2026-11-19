@@ -1,0 +1,1 @@
+withheld: the harness does not share its system prompt
